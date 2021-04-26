@@ -1,4 +1,4 @@
-var intervalID = setInterval(second,1000)
+var intervalID = setInterval(second,1000);
 
 function second(){
     let d = new Date();

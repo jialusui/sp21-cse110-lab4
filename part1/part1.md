@@ -1,7 +1,7 @@
 ## Part 1a
-1.20
-2.20
-3.20
+1.values added: 20
+2.final result: 20
+3.values added: 20
 4. error
    1. explain: since line 13 is outside of the block result is defined in, and since variable created by 'let' cannot be access outside the scope, we see an error
 5. error
@@ -54,3 +54,4 @@ Basic operators and Type conversion
     4
     3
     2
+We have this output since setTimeout runs with slightly delay. So line 1, 5 print before line 3 and 4. Since line 4 runs with '0' delay, line 4 prints before line 3.
